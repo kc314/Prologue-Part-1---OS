@@ -9,11 +9,15 @@ Senai, senai, tais laikais, kai pirmą kart gavau pačiupinėti kompiuterį, UI 
 Windows CMD pamokėlės (visi video playliste): https://www.youtube.com/watch?v=MBBWVgE0ewk&list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu
 
 Linux shell (Bash) pamokėlės (tik pirmas video playliste): https://www.youtube.com/watch?v=eH8Z9zeywq0&list=PLTXMX1FE5Hj5ZJDt_WMbioFpdWO5SGy8r&index=1
+
 Linux bash alternatyvą tu gavai su Github kliento instaliacija (git-bash), tai nėra tas pats, kaip tikras bash, bet pradžiai bus gerai.
 
-Užduotis: Užpildyk šią lentelę ir įkelk ją į savo github. Gali naudoti Google "e.g. linux alternative for ..." :wink: 
+# Užduotis
+
+Užpildyk šią lentelę ir įkelk ją į savo github. Gali naudoti Google "e.g. linux alternative for ..." :wink: 
 
 Hint: atsimink, kad yra parametrai, ne visos komandos by default elgiasi identiškai, reikia panaudoti parametrus, kad elgsena butų kuo panašesnė
+
 Hint 2: RTFM - read the fucking manual :open_book:. Pagalbą gali rasti panaudojus /? parametra (CMD) arba --help (bash)
 
 Ką daro? | CMD | Bash
